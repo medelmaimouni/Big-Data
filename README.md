@@ -2,6 +2,17 @@
 
 ## Titre: 
 **Big Data et GAFAM**
+
+## Table des matières ##
+
+- **Introduction**
+- **GAFA et Big data : qu’est-ce que c’est ?**
+- **Politique**
+- **Pandémie de COVID**
+
+
+
+
 ## Auteurs : 
 - Omar Hraoui
 - Ibrahim Resmouki
