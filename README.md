@@ -5,8 +5,8 @@
 
 ## Table des matières ##
 
-- **Introduction**
-- **GAFA et Big data : qu’est-ce que c’est ?**
+- **[Introduction](Introduction.md)**
+- **[GAFAM et Big data : Quelle relation ?](bigdata.md)**
 - **Politique**
 - **Pandémie de COVID**
 
