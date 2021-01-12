@@ -1,6 +1,6 @@
 # Depéndance GAFAM - Big Data
 La notion de Big Data s’impose comme la grande étape de la décennie : un objectif à 2020 qui pointe l’accès à des données plus intelligentes pour de nombreuses applications comme le marketing, mais aussi la santé. Le Big Data n’a pas été inventé, comme la plupart des technologies passées, il s’est imposé chez les géants du web. En effet, basé sur des solutions Cloud, on parle de Big Data pour de nombreuses choses, y compris ce que faisait Google avec son moteur de recherche avant l’avènement du Big Data, au début des années 2000. On peut ainsi associer le Big Data à un buzzword, même s’il définit une pratique que l’on découvre depuis peu comme une réelle opportunité sur le net.
-![image](bigdata.jpg)
+![image](images/bigdata.jpg)
 
 Sans aucun doute, le Big Data est le phénomène de ces dernières années et il représente un enjeu considérable pour les GAFA.
 
