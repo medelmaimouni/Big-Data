@@ -3,6 +3,8 @@ L'écosystème numérique est régi par une nouvelle économie, où les groupes 
 les industries, perdent leurs positions dominantes. Les géants de la technologie Internet -Google, Amazon,
 Facebook, Apple et Microsoft (GAFAM) - ont une présence croissante dans la plupart des industries. 
 
+![image](gafam.png)
+
 Développé comme un bien public par la technocratie d'État du complexe militaroindustriel américain et la recherche universitaire, les GAFAM ont bénéficié du processus
 de libéralisation et de marchandisation d’Internet. Le monde d’aujourd’hui est
 caractérisé notamment par l'émergence d'une économie numérique aux rendements
