@@ -2,6 +2,7 @@
 L'écosystème numérique est régi par une nouvelle économie, où les groupes de médias et, en général, les groupes culturels
 les industries, perdent leurs positions dominantes. Les géants de la technologie Internet -Google, Amazon,
 Facebook, Apple et Microsoft (GAFAM) - ont une présence croissante dans la plupart des industries. 
+![image](gafam.png)
 
 Développé comme un bien public par la technocratie d'État du complexe militaroindustriel américain et la recherche universitaire, les GAFAM ont bénéficié du processus
 de libéralisation et de marchandisation d’Internet. Le monde d’aujourd’hui est
@@ -17,3 +18,6 @@ conséquences sociétales de leurs actions. Les Etats commencent seulement à
 s’interroger sur leur pouvoir dans tous les domaines de la société, élections comprises. 
 
 Pour l'annectode, il a fallut un tweet d'Elon Musk, fondateur de Tesla et SpaceX, pour que les actions de **Signal advance** accroîtraient de 11,708%
+
+- Quelle relation ont les GAFAM avec le Big Data ?
+- Comment influencent-t-elles les GAFAM sur la politique ?
