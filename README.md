@@ -7,7 +7,7 @@
 
 - **[Introduction](Introduction.md)**
 - **[GAFAM et Big data : Quelle relation ?](bigdata.md)**
-- **Politique**
+- **[Politique](politique.md)**
 - **Pandémie de COVID**
 
 
