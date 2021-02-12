@@ -29,4 +29,4 @@ Grâce au Big Data, les partis politiques peuvent essayer d'adapter leurs idéau
 
 En tenant compte de cela, nous pensons qu'une victoire électorale peut être obtenue grâce à cette technologie.
 
-Les Big Data sont devenus essentiels dans toute campagne politique qui se respecte et constituent un moyen idéal de connaître l'électorat.
+Le Big Data sont devenus essentiels dans toute campagne politique qui se respecte et constituent un moyen idéal de connaître l'électorat.
