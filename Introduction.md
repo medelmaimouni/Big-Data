@@ -1,23 +1,39 @@
 # Introduction
-L'écosystème numérique est régi par une nouvelle économie, où les groupes de médias et, en général, les groupes culturels
-les industries, perdent leurs positions dominantes. Les géants de la technologie Internet -Google, Amazon,
-Facebook, Apple et Microsoft (GAFAM) - ont une présence croissante dans la plupart des industries. 
+L'écosystème numérique est régi par une nouvelle économie, où les groupes de médias et, en général, les groupes culturels et
+industriels, perdent leurs positions dominantes. Les géants de la technologie Internet : Google, Amazon,
+Facebook, Apple et Microsoft (GAFAM), ont une présence croissante dans la plupart des industries. 
 ![image](images/gafam.png)
 
-Développé comme un bien public par la technocratie d'État du complexe militaroindustriel américain et la recherche universitaire, les GAFAM ont bénéficié du processus
-de libéralisation et de marchandisation d’Internet. Le monde d’aujourd’hui est
-caractérisé notamment par l'émergence d'une économie numérique aux rendements
-croissants, dans le cadre d’une dérégulation mondiale quasi généralisée et une
-concentration financière sans doute excessive. Les GAFAM exercent un pouvoir
-préoccupant, car leurs technologies modifient les méthodes de réflexion. Les critiques
-abondent concernant leur recours à la spéculation financière, l'utilisation commerciale
-d'informations privées, l’exercice d’une technologie de domination, la force de leur
-lobbying qui tente directement ou indirectement à contrôler et surveiller les
-comportements des consommateurs et des citoyens. Elles ne prennent pas en charge les
-conséquences sociétales de leurs actions. Les Etats commencent seulement à
-s’interroger sur leur pouvoir dans tous les domaines de la société, élections comprises. 
+Ces géants d’internet sont à 
+l’origine d’une grande partie de l’économie numérique 
+actuelle et à la différence de toutes les autres 
+entreprises, ils ont la capacité de toucher immédiatement le 
+marché international. Leur main mise sur l’économie 
+mondiale, et surtout sur les données personnelles de leurs 
+utilisateurs, devient souvent source d’inquiétude, même pour 
+les États. En effet, l’ensemble de leurs capitalisations 
+peut être comparé au PIB de pays riches comme l’Allemagne et 
+le Royaume Uni.
 
-Pour l'annectode, il a fallut un tweet d'Elon Musk, fondateur de Tesla et SpaceX, pour que les actions de **Signal advance** accroîtraient de 11,708%
+Parallèlement à l’hégémonie des GAFA, la notion de Big Data 
+est aussi née. Le Big Data peut être traduite littéralement 
+par « données massives ». Elle est considérée comme la 
+nouvelle révolution industrielle de notre temps. Il s’agit 
+d’une technologie qui permet de gérer d’énormes volumes de 
+données en temps réel, à partir de différents canaux. Le Big 
+Data sert à analyser rapidement des flux importants de 
+données qui changent en permanence afin que leurs 
+utilisateurs puissent trouver et utiliser des informations 
+pertinentes pour le domaine qui les intéresse.
+
+Pour l'annectode, un tweet d'Elon Musk, fondateur de Tesla et SpaceX, avec un simple "*use Signal*" en parlant du service de messagerie sécurisé, a suffi pour que les actions de **Signal Advance**, une entreprise sans aucun lien avec le sujet, observent une hausse de 11 708%.
+
+Notre fiche de synthèse traitera donc de sujets divers autour de la thématique :
 
 - Quelle relation ont les GAFAM avec le Big Data ?
-- Comment influencent-t-elles les GAFAM sur la politique ?
+- Concurrence entre les GAFAM
+- GAFAM vs opensource ?
+- Comment influencent-t-elles la politique ?
+- Quel a été l'impact de la Covid-19 sur les GAFAM ?
+- GAFAM, Big Data et santé
+- GAFAM en Afrique
