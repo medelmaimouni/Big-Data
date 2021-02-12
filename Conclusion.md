@@ -1,0 +1,5 @@
+# Conclusion
+
+Tout au long de cette période, nous avons eu l'occasion, à travers nos recherches personnelles mais également grâce aux différents cours et thématiques abordées, d'avoir une vue plus globale sur les GAFAM et leur relation avec le Big Data, ce qu'ils en font et ce qu'ils pourraient éventuellement en faire. 
+
+L'oligopole, aussi puissant soit-il, peut se montrer assez prédateur par occasions. Jusqu’à présent, grâce à l’exceptionnelle transformation sociétale et sociale que leurs biens et services ont apportée à l’homme depuis deux ou trois décennies, les inconvénients n’ont guère été mis en avant.  La prise de conscience montante par rapport à certains points, notamment le caractère personnel de certaines données ou encore la fiscalité, l'oblige à s'en tiendre de plus en plus aux réglementations.

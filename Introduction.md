@@ -32,7 +32,7 @@ Notre fiche de synthèse traitera donc de sujets divers autour de la thématique
 
 - Quelle relation ont les GAFAM avec le Big Data ?
 - Concurrence entre les GAFAM
-- GAFAM vs opensource ?
+- GAFAM vs open source ?
 - Comment influencent-t-elles la politique ?
 - Quel a été l'impact de la Covid-19 sur les GAFAM ?
 - GAFAM, Big Data et santé
