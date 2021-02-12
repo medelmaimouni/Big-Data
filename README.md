@@ -3,6 +3,10 @@
 ## Titre: 
 **Big Data et GAFAM**
 
+## Résumé
+
+Big Data et GAFAM vont de pair. Dans cette fiche de synthèse, nous essaierons de voir comment les géants d'Internet et le concept de Big Data sont liés, puis nous verrons comment cette relation s'applique à différents domaines, de la politique à la santé, en passant par les enjeux du continent africain vis-à-vis du Big Data ou encore l'impact de la Covid-19.
+
 ## Table des matières ##
 
 - **[Introduction](Introduction.md)**

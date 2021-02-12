@@ -1,3 +1,5 @@
+# Concurrence entre les GAFAM
+
 Il y a quelques années, chacun des GAFAM disposait de son propre marché : la publicité sur les recherches pour Google, sur les réseaux sociaux pour Facebook, l’e-commerce pour Amazon et les produits électroniques pour Apple. Mais il semblerait que ce temps soit révolu puisque les géants du numérique débordent à présent de leurs secteurs initiaux où ils étaient pourtant en quasi-monopoles.
 
 Les services bancaires sont par exemple l’un des nouveaux secteurs où les GAFAM se font concurrence. Services de paiement, offre de comptes courants, cartes de crédit, et même, une cryptomonnaie mondiale : les GAFAM regorgent d’inventivité pour se positionner sur le secteur financier. Mais ce n’est pas tout, le streaming, les objets connectés, la santé, etc. : les GAFAM se diversifient, quitte à se faire concurrence sur de mêmes activités.
