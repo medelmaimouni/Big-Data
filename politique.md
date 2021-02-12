@@ -23,9 +23,9 @@ Ci-dessous, le lien d'une vidéo de *The Guardian* qui explique comment l'utilis
 
 [![IMAGE ALT TEXT ](https://images.techhive.com/images/article/2016/12/donald-trump-100697897-large.jpg)](https://www.youtube.com/watch?v=Q91nvbJSmS4&ab_channel=TheGuardian)
 
-### Pouvons-nous gagner une élection grâce à Big Data ?
+### Pouvons-nous gagner une élection grâce au Big Data ?
 
-Grâce à Big Data, les partis politiques peuvent essayer d'adapter leurs idéaux à ceux de leurs électeurs. Il faut se rappeler que ces données donnent une idée générale des craintes et des questions de l'électeur potentiel. Par conséquent, comme toute entreprise, les partis vendent au public le produit qui répond le mieux à ses besoins.
+Grâce au Big Data, les partis politiques peuvent essayer d'adapter leurs idéaux à ceux de leurs électeurs. Il faut se rappeler que ces données donnent une idée générale des craintes et des questions de l'électeur potentiel. Par conséquent, comme toute entreprise, les partis vendent au public le produit qui répond le mieux à ses besoins.
 
 En tenant compte de cela, nous pensons qu'une victoire électorale peut être obtenue grâce à cette technologie.
 
