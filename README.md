@@ -1,7 +1,6 @@
 # Big-Data
 
-## Titre: 
-**Big Data et GAFAM**
+## Titre : **Big Data et GAFAM**
 
 ## Résumé
 
@@ -11,7 +10,7 @@ Big Data et GAFAM vont de pair. Dans cette fiche de synthèse, nous essaierons d
 
 - **[Introduction](Introduction.md)**
 - **[GAFAM et Big data : Quelle relation ?](bigdata.md)**
-- **[GAFAM vs opensource](opensource.md)**
+- **[GAFAM vs. open source ?](opensource.md)**
 - **[Concurrence entre les GAFAM](concurrence.md)**
 - **[GAFAM et politique](politique.md)**
 - **[GAFAM et Covid-19](GAFAM%20Vs%20Covid-19.md)**
